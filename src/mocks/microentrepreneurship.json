@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ecosenda",
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "ciudad": "Tunuyán",
+    "categoria": {
+      "id": 2,
+      "nombre": "Agroecología/Orgánicos/Alimentación saludable"
+    },
+    "subCategoria": "Finca agroecológica",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "informacion_adicional": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 2,
+    "nombre": "VerdeVivo",
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "ciudad": "Córdoba",
+    "categoria": {
+      "id": 1,
+      "nombre": "Economía social/Desarrollo local/Inclusión financiera"
+    },
+    "subCategoria": "Desarrollo local sostenible",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "VerdeVivo se dedica al desarrollo local sostenible, fomentando la inclusión financiera y promoviendo la economía social en la comunidad cordobesa.",
+    "informacion_adicional": "Nuestra misión es generar impacto positivo en la sociedad a través de proyectos que impulsen el desarrollo económico local."
+  },
+  {
+    "id": 3,
+    "nombre": "ReciclaAR",
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "ciudad": "Rosario",
+    "categoria": {
+      "id": 4,
+      "nombre": "Conservación/Regeneración/Servicios ecosistémicos"
+    },
+    "subCategoria": "Reciclaje y conservación",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "ReciclaAR se dedica a la conservación del medio ambiente mediante el reciclaje de materiales y la promoción de prácticas sostenibles en la comunidad de Rosario.",
+    "informacion_adicional": "Contribuimos a la regeneración del ecosistema y promovemos la conciencia ambiental en nuestra ciudad."
+  },
+  {
+    "id": 4,
+    "nombre": "HuertaFeliz",
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "ciudad": "Mendoza",
+    "categoria": {
+      "id": 2,
+      "nombre": "Agroecología/Orgánicos/Alimentación saludable"
+    },
+    "subCategoria": "Cultivo de huertas orgánicas",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "HuertaFeliz se especializa en el cultivo de huertas orgánicas, proporcionando alimentos saludables y fomentando prácticas agrícolas sostenibles en Mendoza.",
+    "informacion_adicional": "Nuestra misión es promover la alimentación saludable y la agricultura ecológica para el bienestar de la comunidad."
+  },
+  {
+    "id": 5,
+    "nombre": "EcoBici",
+    "pais": "Argentina",
+    "provincia": "Ciudad Autónoma de Buenos Aires",
+    "ciudad": "Buenos Aires",
+    "categoria": {
+      "id": 3,
+      "nombre": "Empresas/Organismos de impacto/Economía circular"
+    },
+    "subCategoria": "Movilidad sostenible",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "EcoBici ofrece soluciones de movilidad sostenible a través del alquiler de bicicletas eléctricas, promoviendo la economía circular en la Ciudad de Buenos Aires.",
+    "informacion_adicional": "Contribuimos a reducir la contaminación y fomentamos un estilo de vida saludable mediante el uso de la bicicleta."
+  },
+  {
+    "id": 6,
+    "nombre": "ReforestAR",
+    "pais": "Argentina",
+    "provincia": "Neuquén",
+    "ciudad": "Neuquén",
+    "categoria": {
+      "id": 4,
+      "nombre": "Conservación/Regeneración/Servicios ecosistémicos"
+    },
+    "subCategoria": "Reforestación",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "ReforestAR se dedica a la reforestación de áreas degradadas, contribuyendo a la conservación de los ecosistemas en la provincia de Neuquén.",
+    "informacion_adicional": "Trabajamos para recuperar la biodiversidad y fortalecer la resiliencia de los bosques frente al cambio climático."
+  },
+  {
+    "id": 7,
+    "nombre": "EcoArte",
+    "pais": "Argentina",
+    "provincia": "Salta",
+    "ciudad": "Salta",
+    "categoria": {
+      "id": 1,
+      "nombre": "Economía social/Desarrollo local/Inclusión financiera"
+    },
+    "subCategoria": "Arte sostenible",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "EcoArte promueve el arte sostenible y la inclusión financiera en la ciudad de Salta, generando oportunidades para artistas locales comprometidos con la ecología.",
+    "informacion_adicional": "Apoyamos a la comunidad artística y fomentamos la conciencia ambiental a través de expresiones artísticas comprometidas con la sostenibilidad."
+  },
+  {
+    "id": 8,
+    "nombre": "EcoTech",
+    "pais": "Argentina",
+    "provincia": "Tierra del Fuego",
+    "ciudad": "Ushuaia",
+    "categoria": {
+      "id": 3,
+      "nombre": "Empresas/Organismos de impacto/Economía circular"
+    },
+    "subCategoria": "Tecnología sostenible",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "EcoTech desarrolla soluciones tecnológicas sostenibles para abordar desafíos ambientales en la región de Tierra del Fuego, fomentando la economía circular.",
+    "informacion_adicional": "Buscamos impulsar la innovación tecnológica con un enfoque ecológico, contribuyendo al desarrollo sostenible de nuestra comunidad."
+  },
+  {
+    "id": 9,
+    "nombre": "BioTextil",
+    "pais": "Argentina",
+    "provincia": "San Juan",
+    "ciudad": "San Juan",
+    "categoria": {
+      "id": 2,
+      "nombre": "Agroecología/Orgánicos/Alimentación saludable"
+    },
+    "subCategoria": "Textiles orgánicos",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "BioTextil produce textiles orgánicos en armonía con la agroecología, promoviendo la moda sostenible en la provincia de San Juan.",
+    "informacion_adicional": "Nos comprometemos a ofrecer productos textiles de alta calidad, respetuosos con el medio ambiente y socialmente responsables, contribuyendo a un cambio positivo en la industria de la moda."
+  },
+  {
+    "id": 10,
+    "nombre": "AguaPura",
+    "pais": "Argentina",
+    "provincia": "Chubut",
+    "ciudad": "Comodoro Rivadavia",
+    "categoria": {
+      "id": 4,
+      "nombre": "Conservación/Regeneración/Servicios ecosistémicos"
+    },
+    "subCategoria": "Gestión sostenible del agua",
+    "imagenes": [
+      "/src/assets/images/microentrepreneurship_image_01.png",
+      "/src/assets/images/microentrepreneurship_image_02.png",
+      "/src/assets/images/microentrepreneurship_image_03.png"
+    ],
+    "activo": true,
+    "descripcion": "AguaPura se enfoca en la gestión sostenible del agua en la región de Chubut, implementando prácticas para preservar este recurso vital.",
+    "informacion_adicional": "Trabajamos para garantizar el acceso a agua limpia, promoviendo la conservación de ecosistemas acuáticos y concientizando sobre la importancia de su cuidado."
+  }
+]

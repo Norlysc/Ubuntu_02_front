@@ -1,0 +1,4 @@
+export const CONTACT_REQUEST_STATE = {
+  MANAGED: 'MANAGED',
+  UNMANAGED: 'UNMANAGED',
+};
